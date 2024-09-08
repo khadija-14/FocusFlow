@@ -1,4 +1,4 @@
-# focusflow_vdat
+# FocusFlow
 
 FocusFlow is a wearable device designed to monitor stress levels using heart rate, SpO2, and eye movement data. The device classifies the wearer's stress into five levels (0-4) and triggers specific actions based on the stress level detected.
 
@@ -24,7 +24,7 @@ FocusFlow is a wearable device designed to monitor stress levels using heart rat
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/khadija-14/focusflow_vdat.git
+   git clone https://github.com/khadija-14/FocusFlow.git
 
 1. **Install Dependencies:**
    Use the Arduino Library Manager to install the required libraries:
